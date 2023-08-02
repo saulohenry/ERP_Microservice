@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOXN4x7LeNbeySvvHjITUOgGaG389v1tf3DJXbNtaHmqs5WRv/CRTORAbLGwK9Y6T/g87MGAEe1gtZwMT79Qkw==",
+  "success": true,
+  "projectFilePath": "D:\\ERP_Microservice\\saulohenry\\ERP_Microservice\\VendaService\\VendaService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
